@@ -1,0 +1,11 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.py[cod]
+.env
+music.env
+*.log
+*.db
+upload_bots/
+inf/
